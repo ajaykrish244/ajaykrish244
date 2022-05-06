@@ -1,7 +1,6 @@
 ## Howdy 👋
 
-### I'm a senior at PSG Institute of Technology and Applied Research majoring in Electrical Engineering, an incoming Master's Computer Networking student at North Carolina State University.
-
+### I'm a passionate electrical engineering undergraduate with interests in the fields of Image Processing, Artificial Intelligence, Web Development and Cloud Computing.
 ### Feel free to checkout my website:  https://ajaykrish244.github.io/
 
 ### You can reach out to me here: 
