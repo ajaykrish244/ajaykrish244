@@ -9,7 +9,7 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][2]
 
 [1]: https://www.linkedin.com/in/ajay-krishna-raveendar-1358781b8/
-[2]: ajaykrish244@gmail.com
+[2]: mailto:ajaykrish244@gmail.com?subject=[GitHub] Source Han Sans
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykrish244&langs_count=5&theme=tokyonight)]()
