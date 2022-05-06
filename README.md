@@ -6,8 +6,10 @@
 
 ### You can reach out to me here: 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][2]
 
 [1]: https://www.linkedin.com/in/ajay-krishna-raveendar-1358781b8/
+[2]: ajaykrish244@gmail.com
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykrish244&langs_count=5&theme=tokyonight)]()
