@@ -3,7 +3,6 @@
 ### I'm a senior at PSG Institute of Technology and Applied Research majoring in Electrical Engineering, an incoming Master's Computer Networking student at North Carolina State University.
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ajaykrish244&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykrish244&langs_count=5&theme=tokyonight)]()
 
 <!--
