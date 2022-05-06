@@ -4,7 +4,8 @@
 
 ### Feel free to checkout my website:  https://ajaykrish244.github.io/
 
-### You can reach out to me here: [![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1]
+### You can reach out to me here: 
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1]
 
 [1]: https://www.linkedin.com/in/ajay-krishna-raveendar-1358781b8/
 
