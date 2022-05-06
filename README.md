@@ -6,7 +6,7 @@
 
 ### You can reach out to me here: 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
-[![Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub] Source Han Sans)
+![Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub] Source Han Sans)
 
 
 
