@@ -6,12 +6,12 @@
 
 ### You can reach out to me here: 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][2]
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 
 [1]: https://www.linkedin.com/in/ajay-krishna-raveendar-1358781b8/
-[2]: mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykrish244&langs_count=5&theme=tokyonight)]()
